@@ -37,7 +37,7 @@ Connection: close
 token=5fa0c8fe32bf6ab09ae6f3bd358107d7&timestamp=1696666974&uploadmark=1&uploadpath=upload/&datefolder=1&covermark=1&imageext=jpg,jpeg,gif,png&imagemaxsize=2mb&imageformat=shijian&compresswidth=2000&compressheight=2000&compressquality=80&fileext=pdf,txt,doc,docx,xls,xlsx,zip,rar&filemaxsize=10mb'&fileformat=pinyin&videoext=mp4,flv,swf&videomaxsize=20mb&videoformat=pinyin&smallmodel=选择模型&about_mode=5&about_width=300&about_height=300&about_quality=80&brand_mode=5&brand_width=400&brand_height=400&brand_quality=80&product_mode=5&product_width=300&product_height=300&product_quality=80&news_mode=5&news_width=300&news_height=300&news_quality=90&job_mode=5&job_width=350&job_height=350&job_quality=80&down_mode=5&down_width=300&down_height=400&down_quality=80&case_mode=5&case_width=300&case_height=500&case_quality=80&video_mode=5&video_width=400&video_height=500&video_quality=80&photo_mode=5&photo_width=500&photo_height=300&photo_quality=80&watertype=0&watermarkfont=zzzcms发生地方&watermarkpic=/images/logo.png&markpicwidth=100&markpicheight=30&markpicalpha=1&watermarklocation=1
 ```
 
-Translate to English: Modify the imageext parameter in the POST request from `jpg, jpeg, gif, png`  to `jpg, jpeg, gif, png, pphphp`.
+ Modify the imageext parameter in the POST request from `jpg, jpeg, gif, png`  to `jpg, jpeg, gif, png, pphphp`.
 
 ![image-20231007162511903](./assets/image-20231007162511903.png)
 
