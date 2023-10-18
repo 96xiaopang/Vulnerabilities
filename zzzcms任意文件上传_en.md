@@ -1,6 +1,6 @@
 # ZZZCMS Vulnerabilities
 
-## Vulnerability 1 - Loose Filtering
+## Vulnerability 1 - Loose Filtering--CVE-2023-45555
 
 ### System Version
 
@@ -58,7 +58,7 @@ $imageext=str_replace(array('php','bat','js','.',';'),'',$imageext);
 
 This only performs the replacement for the 'php' string, allowing an attacker to bypass the check by sending a string like `pphphp`.
 
-## Vulnerability 2 - Arbitrary File Upload
+## Vulnerability 2 - Arbitrary File Upload--CVE-2023-45554
 
 ### System Version
 
